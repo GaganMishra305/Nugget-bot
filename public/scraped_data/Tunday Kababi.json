@@ -1,0 +1,168 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Tunday-Kababi-Beside-StMarry-Inter-College-Neer-Around-Town-Aminabad/0522PX522-X522-101028105411-T9G7_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:54.268226"
+  },
+  "basic_info": {
+    "name": "Tunday Kababi",
+    "rating": 4.5,
+    "rating_count": "55,298",
+    "address": "Aminabad, LucknowNaaz Cinema Road, Aminabad, Lucknow - 226018 (Beside St.Marry Inter College, Neer Around Town)",
+    "contact": "07942693231",
+    "operating_hours": "Open  until 11:30 pm",
+    "special_info": "Parking Available"
+  },
+  "menu": {
+    "Kebabs": [
+      {
+        "name": "Tunday Mutton Kebab (galouti)",
+        "price": 28,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Tangdi Kebab (2 Pcs)",
+        "price": 199,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Veg Kebab (4 Pcs)",
+        "price": 106,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Tunday Galouti Kebab (black Buffalo)",
+        "price": 15,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Seekh Kebab (8 Pcs)",
+        "price": 119,
+        "veg_status": "non-veg"
+      }
+    ],
+    "Starters": [
+      {
+        "name": "Fish Tikka (8 Pcs)",
+        "price": 384,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Tikka (8 Pcs)",
+        "price": 331,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Roasted Chicken",
+        "price": 199,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Malai Tikka (8 Pcs)",
+        "price": 331,
+        "veg_status": "non-veg"
+      }
+    ],
+    "MainCourse": [
+      {
+        "name": "Mughlai Paratha",
+        "price": 17,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Kadai Paneer",
+        "price": 186,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Rumali Roti",
+        "price": 9,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Handi",
+        "price": 186,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Sheermal",
+        "price": 19,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Mixed Veg",
+        "price": 119,
+        "veg_status": "veg"
+      }
+    ],
+    "Biryanis": [
+      {
+        "name": "Chicken Biryani (half)",
+        "price": 146,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Biryani",
+        "price": 166,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Veg Biryani",
+        "price": 133,
+        "veg_status": "veg"
+      }
+    ],
+    "Desserts": [
+      {
+        "name": "Awadhi Kheer",
+        "price": 27,
+        "veg_status": "veg"
+      }
+    ],
+    "Keema": [
+      {
+        "name": "Black Baffalo Keema (1 Kg)",
+        "price": 596,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Keema (1 Kg)",
+        "price": 994,
+        "veg_status": "non-veg"
+      }
+    ],
+    "Accompanients": [
+      {
+        "name": "Onion Salad",
+        "price": 7,
+        "veg_status": "veg"
+      }
+    ],
+    "KababParathaCombo": [
+      {
+        "name": "Galawati Mutton Kebab Paratha Combo",
+        "price": 146,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Galawati Kebab(black Buffalo) Paratha Combo",
+        "price": 93,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Veg Kebab Combo",
+        "price": 140,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chicken Masala Combo",
+        "price": 164,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Korma Combo",
+        "price": 171,
+        "veg_status": "non-veg"
+      }
+    ]
+  }
+}

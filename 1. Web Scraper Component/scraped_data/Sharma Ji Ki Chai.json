@@ -1,0 +1,83 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Sharma-Ji-Ki-Chai-Near-novality-cinema-Hazratganj/0522PX522-X522-160826112726-G6H1_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:53.547395"
+  },
+  "basic_info": {
+    "name": "Sharma Ji Ki Chai",
+    "rating": 4.2,
+    "rating_count": "28,756",
+    "address": "Hazratganj, Lucknow34 t n road lal bhag, Hazratganj, Lucknow - 226001 (near novality cinema)",
+    "contact": "07947109049",
+    "operating_hours": "Open  until 7:30 pm",
+    "special_info": "Pure Veg"
+  },
+  "menu": {
+    "Chai": [
+      {
+        "name": "2 Chai Sugar Free (paper)",
+        "price": 80,
+        "veg_status": "veg"
+      },
+      {
+        "name": "2 Chai Sugar Free (kullad)",
+        "price": 95,
+        "veg_status": "veg"
+      },
+      {
+        "name": "2 Chai (kullad)",
+        "price": 100,
+        "veg_status": "veg"
+      },
+      {
+        "name": "2 Chai (in Paper Cup)",
+        "price": 85,
+        "veg_status": "veg"
+      },
+      {
+        "name": "4 Chai Sugar Free (paper)",
+        "price": 160,
+        "veg_status": "veg"
+      },
+      {
+        "name": "4 Chai Sugar Free (kullad)",
+        "price": 190,
+        "veg_status": "veg"
+      }
+    ],
+    "Snacks": [
+      {
+        "name": "Bun With Yellow Butter",
+        "price": 50,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Bun Double Makkhan",
+        "price": 60,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Suhal (1pcs)",
+        "price": 25,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Mathari (1pcs)",
+        "price": 25,
+        "veg_status": "veg"
+      }
+    ],
+    "Sweet": [
+      {
+        "name": "Laddu (1pcs)",
+        "price": 25,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Peda (1pcs)",
+        "price": 25,
+        "veg_status": "veg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Mashi-Biryani-World-Behind-Neebu-Park-Bada-Imambada-Oppo-Khunkhun-Ji-Lucknow-Chowk/0522PX522-X522-160705173620-S6L4_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:57.007931"
+  },
+  "basic_info": {
+    "name": "Mashi Biryani World",
+    "rating": 4.6,
+    "rating_count": "9,866",
+    "address": "Lucknow Chowk, LucknowNimbu Park Road, Lucknow Chowk, Lucknow - 226003 (Behind Neebu Park Bada Imambada, Oppo Khunkhun Ji)",
+    "contact": "07947138467",
+    "operating_hours": "Open  until 11:00 pm",
+    "special_info": "11 Years in Business"
+  },
+  "menu": {
+    "Desserts": [
+      {
+        "name": "Big Matka Special Rabri",
+        "price": 155,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Big Matka Rabri Lassi",
+        "price": 115,
+        "veg_status": "veg"
+      }
+    ],
+    "MainCourse": [
+      {
+        "name": "Awadhi Chicken Masala",
+        "price": 260,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Changezi Gravy",
+        "price": 260,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Purvanchali Mutton Masala",
+        "price": 390,
+        "veg_status": "non-veg"
+      }
+    ],
+    "Starter": [
+      {
+        "name": "Paprika Chicken Fry",
+        "price": 240,
+        "veg_status": "non-veg"
+      }
+    ]
+  }
+}

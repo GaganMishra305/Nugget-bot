@@ -1,0 +1,230 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Milan-A-Speciality-Restaurant-Opposite-Railway-Station-Charbagh/0522PX522-X522-110304200136-G5H7_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:54.815700"
+  },
+  "basic_info": {
+    "name": "Milan A Speciality Restaurant",
+    "rating": 4.8,
+    "rating_count": "16,008",
+    "address": "Charbagh, LucknowGurunanak Market, Station Rd, Cash & Pay Colony, Charbagh, Lucknow - 226004 (Opposite Railway Station)",
+    "contact": "07942689078",
+    "operating_hours": "Open  until 11:00 pm",
+    "special_info": "18 Years in Business"
+  },
+  "menu": {
+    "specialbreakfast": [
+      {
+        "name": "Paneer Paratha With Sabji",
+        "price": 30,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Aloo Paratha With Sabji",
+        "price": 25,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Pyaz Paratha With Sabji",
+        "price": 25,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Lachha Paratha With Sabji",
+        "price": 25,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Amul Butter",
+        "price": 10,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Bread Omlet",
+        "price": 40,
+        "veg_status": "non-veg"
+      }
+    ],
+    "snacks": [
+      {
+        "name": "Half Chicken Biryani",
+        "price": 90,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Half Veg Biryani",
+        "price": 70,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chicken Kali Mirch",
+        "price": 120,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Chatpata",
+        "price": 100,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Fry",
+        "price": 130,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Afghani Tikka",
+        "price": 150,
+        "veg_status": "non-veg"
+      }
+    ],
+    "lunchdinnernonvegRs10Qtrextraforboneless": [
+      {
+        "name": "Butter Chicken",
+        "price": 120,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Handi Chicken",
+        "price": 120,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Saagwala",
+        "price": 120,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Kadhai Chicken",
+        "price": 100,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Masala",
+        "price": 100,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Do Pyaza",
+        "price": 100,
+        "veg_status": "non-veg"
+      }
+    ],
+    "lunchdinnerveg": [
+      {
+        "name": "Paneer Butter Masala",
+        "price": 70,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Shahi Paneer",
+        "price": 70,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Handi Paneer",
+        "price": 70,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Tikka Masala",
+        "price": 70,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Palak Paneer",
+        "price": 70,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Do Pyaza",
+        "price": 60,
+        "veg_status": "veg"
+      }
+    ],
+    "rotichawalraita": [
+      {
+        "name": "Butter Naan",
+        "price": 25,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Plain Naan",
+        "price": 20,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Lacha Paratha",
+        "price": 20,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Missi Roti",
+        "price": 20,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Butter Tandoori Roti",
+        "price": 10,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Tandoori Roti",
+        "price": 6,
+        "veg_status": "veg"
+      }
+    ],
+    "breakfastthali": [
+      {
+        "name": "Makhanwala Tandoori Aloo Paratha 2 With Sabji With Boondi Raita",
+        "price": 80,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chole Rice",
+        "price": 50,
+        "veg_status": "veg"
+      }
+    ],
+    "specialbreakfastthali": [
+      {
+        "name": "Makhanwala Tandoori Paneer Paratha 2 With Sabji With Boondi Raita",
+        "price": 90,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chicken Roll",
+        "price": 70,
+        "veg_status": "non-veg"
+      }
+    ],
+    "nonvegthali": [
+      {
+        "name": "Today Special Chicken With Chicken Biryani With Egg Curry With Boondi Raita With Roti 1 To 4 (tandoori & Rumali)",
+        "price": 170,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Curry Rice",
+        "price": 90,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Egg Curry",
+        "price": 70,
+        "veg_status": null
+      }
+    ],
+    "vegspecialthali": [
+      {
+        "name": "Today Special Paneer With Seasonal Sabji With Dal Fry With Rice With Roti 1 To 4 (tandoori & Rumali)",
+        "price": 100,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Dal With Rice With Sabji",
+        "price": 50,
+        "veg_status": "veg"
+      }
+    ]
+  }
+}

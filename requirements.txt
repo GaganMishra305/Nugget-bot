@@ -1,0 +1,9 @@
+# python version used is 3.10.6
+
+# for scraping
+beautifulsoup4
+requests
+lxml
+
+# for test notebooks
+ipykernel

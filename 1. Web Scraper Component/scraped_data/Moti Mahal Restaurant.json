@@ -1,0 +1,322 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Moti-Mahal-Restaurant-Next-Central-Bank-Of-India-Near-Hanuman-Mandir-Opposite-Multi-Level-Parking-Hazratganj/0522P522STDS000110_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:55.592712"
+  },
+  "basic_info": {
+    "name": "Moti Mahal Restaurant",
+    "rating": 4.2,
+    "rating_count": "17,633",
+    "address": "Hazratganj, LucknowMG Marg, Hazratganj, Lucknow - 226001 (Next Central Bank Of India, Near Hanuman Mandir, Opposite Multi Level Parking)",
+    "contact": "07947137089",
+    "operating_hours": "Open  until 11:30 pm",
+    "special_info": "35 Years in Business"
+  },
+  "menu": {
+    "BhojamkeSang": [
+      {
+        "name": "Roasted Papad",
+        "price": 65,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Pudina Raita [300 Ml]",
+        "price": 125,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Pineapple Raita [300 Ml]",
+        "price": 145,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Onion Salad",
+        "price": 110,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Mixed Raita [300 Ml]",
+        "price": 130,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Masala Papad",
+        "price": 110,
+        "veg_status": "veg"
+      }
+    ],
+    "ChineseChilliesandManchurian": [
+      {
+        "name": "Vegetable Spring Roll",
+        "price": 260,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable Hot Garlic Sauce [500 Ml]",
+        "price": 270,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Manchurian Gravy [500 Ml]",
+        "price": 275,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Manchurian Dry",
+        "price": 275,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Lemon Gravy [500 Ml]",
+        "price": 240,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Crunchies Dry",
+        "price": 295,
+        "veg_status": "veg"
+      }
+    ],
+    "ChineseChipringChopsueyAndSweetNSour": [
+      {
+        "name": "Vegetable Sweet-n-sour",
+        "price": 230,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable Chopsuey",
+        "price": 260,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable Chinese Chopsuey",
+        "price": 280,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable American Chopsuey",
+        "price": 295,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Cheese Sweet-n-sour",
+        "price": 260,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Cheese Chopsuey",
+        "price": 295,
+        "veg_status": "veg"
+      }
+    ],
+    "ChineseFestiveLovelyNoodlesandRice": [
+      {
+        "name": "Vegetable Chowmein",
+        "price": 285,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Steam Rice Gravy",
+        "price": 205,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Schezwan Rice",
+        "price": 320,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Noodles Chow Chow Gravy",
+        "price": 315,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Mushroom Fried Rice",
+        "price": 295,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Mushroom Chowmein",
+        "price": 335,
+        "veg_status": "veg"
+      }
+    ],
+    "DessertsandBeverages": [
+      {
+        "name": "Vanilla Ice Cream Shake",
+        "price": 170,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Sweet Fresh Lime Soda",
+        "price": 105,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Sugar Free Kulfi",
+        "price": 150,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Strawberry Ice Cream Shake",
+        "price": 170,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Special Tea",
+        "price": 80,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Special Fruit Ice Cream Shake",
+        "price": 185,
+        "veg_status": "veg"
+      }
+    ],
+    "HungrySoups": [
+      {
+        "name": "Veg Yung Chow Soup",
+        "price": 205,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Talumein Soup",
+        "price": 210,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Sweet Corn Soup [300 Ml]",
+        "price": 205,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Peking Soup [300 Ml]",
+        "price": 210,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Manchow Soup [300 Ml]",
+        "price": 215,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Lemon Coriander Soup [300 Ml]",
+        "price": 195,
+        "veg_status": "veg"
+      }
+    ],
+    "PizzaPastaandMomos": [
+      {
+        "name": "Veg Momos [8 Pieces]",
+        "price": 170,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Special Pizza [8 Inches]",
+        "price": 320,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Sarida Pizza [8 Inches]",
+        "price": 300,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Pugarlic Pizza [8 Inches]",
+        "price": 305,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Tikka Pizza [8 Inches]",
+        "price": 325,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Momos [8 Pieces]",
+        "price": 195,
+        "veg_status": "veg"
+      }
+    ],
+    "SpecialtiesofMotiMahal": [
+      {
+        "name": "Veg Biryani",
+        "price": 275,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Mushroom Hyderabadi Biryani",
+        "price": 340,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Ghungroo Dum Biryani",
+        "price": 325,
+        "veg_status": "veg"
+      }
+    ],
+    "TandooriPeshkash": [
+      {
+        "name": "Vegetable Seekh Kabab [4 Pieces]",
+        "price": 260,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable Pudina Kabab [4 Pieces]",
+        "price": 290,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable Hariyali Kabab [4 Pieces]",
+        "price": 260,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Corn Kabab [4 Pieces]",
+        "price": 285,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Tikka [6 Pieces]",
+        "price": 300,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Mushroom Tikka [10 Pieces]",
+        "price": 285,
+        "veg_status": "veg"
+      }
+    ],
+    "TastySouthIndian": [
+      {
+        "name": "Rava Plain Dosa",
+        "price": 175,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Rava Paneer Dosa",
+        "price": 205,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Rava Masala Dosa",
+        "price": 190,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Plain Dosa",
+        "price": 165,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Dosa",
+        "price": 195,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Onion Uttapam",
+        "price": 205,
+        "veg_status": "veg"
+      }
+    ]
+  }
+}

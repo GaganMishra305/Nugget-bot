@@ -1,0 +1,344 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Colours-By-Royal-Cafe-Opposite-Sahara-Ganj-Mall-Hazratganj/0522PX522-X522-171223163048-Y9E7_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:56.139867"
+  },
+  "basic_info": {
+    "name": "Colours By Royal Cafe",
+    "rating": 4.1,
+    "rating_count": "17,140",
+    "address": "Hazratganj, Lucknow9/7 Sahanajaf Road..opposite Saharaganj Mall, Sahnajafroad, Hazratganj, Lucknow - 226001 (Opposite Sahara Ganj Mall)",
+    "contact": "07947111398",
+    "operating_hours": "Open  until 11:00 pm",
+    "special_info": "10 Years in Business"
+  },
+  "menu": {
+    "Breads": [
+      {
+        "name": "Mutton Keema Paratha",
+        "price": 265,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Keema Naan",
+        "price": 265,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Garlic Naan",
+        "price": 195,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Bread Basket",
+        "price": 365,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Cheese Garlic Naan",
+        "price": 220,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Khasta Roti",
+        "price": 150,
+        "veg_status": "veg"
+      }
+    ],
+    "BurgersandSandwiches": [
+      {
+        "name": "Chicken Club Sandwich",
+        "price": 380,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Grilled Sandwich",
+        "price": 305,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Sandwich",
+        "price": 300,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Veg Plain Sandwich",
+        "price": 240,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Club Sandwich",
+        "price": 305,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Cheese Grilled Sandwich",
+        "price": 290,
+        "veg_status": "veg"
+      }
+    ],
+    "Continental": [
+      {
+        "name": "Garlic Bread",
+        "price": 235,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chicken Non Veg Grilled",
+        "price": 600,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Baked Fish",
+        "price": 685,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Boneless Fish Fried With Boiled Veg",
+        "price": 695,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Boneless Grilled Fish",
+        "price": 685,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Boneless Fish Tomato",
+        "price": 615,
+        "veg_status": "non-veg"
+      }
+    ],
+    "FriedRiceandNoodles": [
+      {
+        "name": "Veg Fried Rice",
+        "price": 405,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Chowmein",
+        "price": 405,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Spicy Chicken Schezwan Noodle",
+        "price": 490,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Hong Kong Style Noodles",
+        "price": 490,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Hot Garlic Noodles",
+        "price": 490,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Mixed Chowmein",
+        "price": 490,
+        "veg_status": "non-veg"
+      }
+    ],
+    "MainCourse": [
+      {
+        "name": "Chicken Chilli Gravy",
+        "price": 605,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Royal Fish Dry",
+        "price": 695,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Chilli Gravy",
+        "price": 600,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Schezwan Gravy",
+        "price": 610,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Garlic Mutton Gravy",
+        "price": 575,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Ginger Mutton Gravy",
+        "price": 575,
+        "veg_status": "non-veg"
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Veg Royal Cafe Special Pizza",
+        "price": 430,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chicken Italian Spicy Pizza",
+        "price": 445,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Mushroom Pizza",
+        "price": 455,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Capsicum Onion Pizza",
+        "price": 430,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Monarch Pizza",
+        "price": 430,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Prince Pizza",
+        "price": 430,
+        "veg_status": "non-veg"
+      }
+    ],
+    "RiceandBiryani": [
+      {
+        "name": "Murgh Handi Dum Biryani",
+        "price": 535,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Handi Dum Biryani",
+        "price": 535,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Handi Dum Biryani",
+        "price": 550,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Egg Handi Dum Biryani",
+        "price": 490,
+        "veg_status": null
+      },
+      {
+        "name": "Veg Handi Dum Biryani",
+        "price": 430,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Steamed Rice",
+        "price": 320,
+        "veg_status": "veg"
+      }
+    ],
+    "RoyalCafeThali": [
+      {
+        "name": "Mini Veg Combo",
+        "price": 250,
+        "veg_status": "veg"
+      }
+    ],
+    "Snacks": [
+      {
+        "name": "Fish Finger",
+        "price": 620,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Mutton Cutlet",
+        "price": 330,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Cutlet",
+        "price": 305,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Finger Chips",
+        "price": 240,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Cheese Cutlet",
+        "price": 250,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Cutlet",
+        "price": 240,
+        "veg_status": "veg"
+      }
+    ],
+    "Soups": [
+      {
+        "name": "Chicken French Onion Soup",
+        "price": 250,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Cream Of Chicken Soup",
+        "price": 260,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Clear Soup",
+        "price": 240,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Spinach Soup",
+        "price": 245,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Talumein Soup",
+        "price": 250,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Noodle Soup",
+        "price": 250,
+        "veg_status": "non-veg"
+      }
+    ],
+    "Starters": [
+      {
+        "name": "Murgh Kalmi Kabab [1 Plate]",
+        "price": 605,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Vegetable Seekh Kabab",
+        "price": 440,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Spicy Sholay Paneer Tikka",
+        "price": 480,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Paneer Kasturi Tikka",
+        "price": 460,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Veg Galawati Kabab",
+        "price": 440,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Vegetable Hara Bhara Kabab",
+        "price": 440,
+        "veg_status": "veg"
+      }
+    ]
+  }
+}

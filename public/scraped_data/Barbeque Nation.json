@@ -1,0 +1,71 @@
+{
+  "scrape_metadata": {
+    "scrape_url": "https://www.justdial.com/Lucknow/Barbeque-Nation-Vipin-Khand-Gomti-Nagar/0522PX522-X522-130329165812-U5P6_BZDET/menu?trkid=277-remotecity-fcat&term=Restaurants&ncatid=10408936&area=&search=Best%20Restaurants%20in%20Lucknow%20-%20Order%20Food%20Online&mncatname=Restaurants&abd_btn=&abd_heading=&bd=1&cat_b2b_flag=0&searchfrom=lst",
+    "scrape_timestamp": "2025-04-26T17:58:56.521536"
+  },
+  "basic_info": {
+    "name": "Barbeque Nation",
+    "rating": 4.4,
+    "rating_count": "12,256",
+    "address": "Gomti Nagar, LucknowBuilding Rohtas Summit Third Floor, B-04 to 307, Padera - Harchandpur Road, Gomti Nagar, Lucknow - 226010 (Vipin Khand)",
+    "contact": "07947148142",
+    "operating_hours": "Opens at 06:30 PM",
+    "special_info": "17 Years in Business"
+  },
+  "menu": {
+    "DessertsBeverages": [
+      {
+        "name": "Mango Milkshake",
+        "price": 140,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Kesar Pista Milkshake",
+        "price": 140,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chocolate Milkshake",
+        "price": 140,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Chocolate Brownie",
+        "price": 140,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "price": 140,
+        "veg_status": "veg"
+      }
+    ],
+    "StartersandKebabsPlatter": [
+      {
+        "name": "Tandoori Paneer Tikka",
+        "price": 310,
+        "veg_status": "veg"
+      },
+      {
+        "name": "Tandoori Chicken Wings (6pcs)",
+        "price": 300,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Tandoori Tangdi (3pcs)",
+        "price": 320,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken & Fish Tikka Platter",
+        "price": 560,
+        "veg_status": "non-veg"
+      },
+      {
+        "name": "Chicken Tikka & Drumstick Platter",
+        "price": 560,
+        "veg_status": "non-veg"
+      }
+    ]
+  }
+}
