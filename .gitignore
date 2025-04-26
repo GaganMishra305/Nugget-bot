@@ -1,0 +1,4 @@
+# venv and cache is not needed on version control
+.venv
+__pycache__
+*.pyc
