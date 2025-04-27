@@ -50,22 +50,6 @@ python3 main.py
 ```  
 Interact via CLI until you type `exit`.
 
-## Repository Structure
-```
-├── scraper.py                         # Justdial scraping module
-├── vectordb_generator_retriever.py    # Ingest & query ChromaDB
-├── rag_agent.py                       # RAG-based chatbot agent
-├── public/
-│   └── scraped_data/                  # Structured JSON output
-├── restaurant_vector_db/              # Persistent ChromaDB store
-├── docs/
-│   ├── technical.md                   # System design & implementation details
-│   └── schema.md                      # Data schema & scraping methodology
-├── demo.mp4                           # 3‑minute demo video (link placeholder)
-├── requirements.txt                   # Python dependencies
-└── README.md                          # This file
-```
-
 ## Dataset
 All extracted JSON files reside in `public/scraped_data/`. Each file includes:
 ```json
