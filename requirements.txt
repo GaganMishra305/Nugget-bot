@@ -13,6 +13,9 @@ chromadb
 # for rag agent
 langchain-community
 langchain_huggingface
+huggingface_hub
+groq
+dotenv
 
 # for test notebooks
 ipykernel
