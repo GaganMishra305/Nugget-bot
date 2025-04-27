@@ -15,7 +15,7 @@ def main():
 
     load_dotenv('.env')
     token = os.getenv("HUGGING_FACE_TOKEN")
-    print(token)
+    # print(token)
     if not token:
         token = Prompt.ask("[bold yellow]Enter your Hugging Face Token (which has permission for using llama:70b) [/bold yellow]")
         set_key(str('.env'), "HUGGING_FACE_TOKEN", token)

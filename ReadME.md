@@ -25,7 +25,7 @@ Nugget Bot is an AI-driven restaurant guide that answers user queries about menu
 ## Assignment Requirements
 - **Scraped Dataset**: View the collected JSON in `public/scraped_data/`.
 - **Technical Documentation**: See the [Technical Documentation](#technical-documentation) section below.
-- **Demo Video**:  [Demo Video](INSERT_DEMO_LINK)
+- **Demo Video**:  [Demo Video](https://jmp.sh/fvmxcTmM)
 
 ## Key Features
 - **Robust Scraping**: Custom headers, retries, and error handling with BeautifulSoup parsing.
@@ -107,7 +107,7 @@ An in-depth overview of system design, implementation, and decisions:
 - Integration tests, CI/CD pipeline, and monitoring alerts.
 
 ## Demo Video
-Watch the demo here: [Demo Video](INSERT_DEMO_LINK)
+Watch the demo here: [Demo Video](https://jmp.sh/fvmxcTmM)
 
 ## Future Improvements
 - Graph DB for knowledge base construction
