@@ -17,7 +17,7 @@ def main():
     token = os.getenv("HUGGING_FACE_TOKEN")
     print(token)
     if not token:
-        token = Prompt.ask("[bold yellow]Enter your Hugging Face Token[/bold yellow]")
+        token = Prompt.ask("[bold yellow]Enter your Hugging Face Token (which has permission for using llama:70b) [/bold yellow]")
         set_key(str('.env'), "HUGGING_FACE_TOKEN", token)
         os.environ["HUGGING_FACE_TOKEN"] = token
         console.print("[green]Token saved to .env[/green]")

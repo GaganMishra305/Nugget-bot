@@ -1,24 +1,33 @@
-# python version used is 3.10.6
+# # python version used is 3.10.6
 
-# for scraping
-beautifulsoup4
-requests
-lxml
+# # for scraping
+# beautifulsoup4
+# requests
+# lxml
 
-# for knowledge base generation
-pandas
-sentence_transformers
+# # for knowledge base generation
+# pandas
+# sentence_transformers
+# chromadb
+
+# # for rag agent
+# langchain-community
+# langchain_huggingface
+# huggingface_hub
+# groq
+# dotenv
+
+# # for cli ui
+# pyfiglet
+
+# # for test notebooks
+# ipykernel
+
+# main packages needed for using
 chromadb
 
-# for rag agent
-langchain-community
-langchain_huggingface
-huggingface_hub
 groq
+huggingface_hub
+
 dotenv
-
-# for cli ui
 pyfiglet
-
-# for test notebooks
-ipykernel
