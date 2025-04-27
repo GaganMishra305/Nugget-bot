@@ -17,5 +17,8 @@ huggingface_hub
 groq
 dotenv
 
+# for cli ui
+pyfiglet
+
 # for test notebooks
 ipykernel
